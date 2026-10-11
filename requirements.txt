@@ -1,3 +1,4 @@
 pandas==3.0.5
 pytest==9.1.1torch==2.14.1
 transformers==5.18.0
+matplotlib==3.11.2
